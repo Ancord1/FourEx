@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FourEx</string>
+    <string name="no_inet_title">No Internet connection</string>
+    <string name="no_location_title">Location unknown</string>
+    <string name="no_location_msg">Please check that your location is enabled</string>
+    <string name="no_data_title">No data</string>
+    <string name="no_data_msg">Unable to fetch data from the server</string>
+</resources>
